@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "deny": [
+      "Write(CLAUDE.md)",
+      "Write(run.sh)",
+      "Write(.claude/**)"
+    ]
+  }
+}
